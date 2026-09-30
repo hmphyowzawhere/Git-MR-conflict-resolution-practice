@@ -1,0 +1,1 @@
+# Git-MR-conflict-resolution-practice
